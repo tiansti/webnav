@@ -2,17 +2,17 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://mubai.sumeru.fun"
+    "link": "https://mubai.sumeru.fun/"
   },
   {
     "icon": "Baby",
     "name": "生活分享",
-    "link": "https://saylife.sumeru.fun"
+    "link": "https://saylife.sumeru.fun/"
   },
   {
     "icon": "Linux",
     "name": "技术分享",
-    "link": "http://sumeru.rf.gd"
+    "link": "http://sumeru.rf.gd/"
   },
   {
     "icon": "Cloud",
@@ -27,22 +27,22 @@
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.sumeru.eu.org"
+    "link": "https://status.sumeru.eu.org/"
   },
   {
     "icon": "Server",
     "name": "群晖登录",
-    "link": "https://dsm.local"
+    "link": "https://dsm.local/"
   }, 
   {
     "icon": "AlbumsSharp",
     "name": "群晖相册",
-    "link": "https://photo.local"
+    "link": "https://photo.local/"
   },
   {
     "icon": "Ad",
     "name": "AdguardHome",
-    "link": "https://ad.local"
+    "link": "https://ad.local/"
   },
   {
     "icon": "SolarPanel",
@@ -52,16 +52,16 @@
   {
     "icon": "LogoPython",
     "name": "青龙面板",
-    "link": "https://ql.local"
+    "link": "https://ql.local/"
   },
   {
     "icon": "CloudArchive32Regular",
     "name": "Alist",
-    "link": "https://ql.local"
+    "link": "https://alist.local/"
   },  
   {
     "icon": "LivePhoto",
     "name": "兰空图床",
-    "link": "https://ql.local"
+    "link": "https://lsky.local/"
   }
 ]
