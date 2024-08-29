@@ -2,36 +2,66 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://mubai.sumeru.fun"
+  },
+  {
+    "icon": "Baby",
+    "name": "生活分享",
+    "link": "https://saylife.sumeru.fun"
+  },
+  {
+    "icon": "Linux",
+    "name": "技术分享",
+    "link": "http://sumeru.rf.gd"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://ipan.isrecluse.eu.org/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "LivePhoto",
+    "name": "图床",
+    "link": "https://mypic.sumeru.fun/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://status.sumeru.eu.org"
+  },
+  {
+    "icon": "Server",
+    "name": "群晖登录",
+    "link": "https://dsm.local"
+  }, 
+  {
+    "icon": "AlbumsSharp",
+    "name": "群晖相册",
+    "link": "https://photo.local"
+  },
+  {
+    "icon": "Ad",
+    "name": "AdguardHome",
+    "link": "https://ad.local"
+  },
+  {
+    "icon": "SolarPanel",
+    "name": "宝塔面板",
+    "link": "https://bt.local/201630"
+  },
+  {
+    "icon": "LogoPython",
+    "name": "青龙面板",
+    "link": "https://ql.local"
+  },
+  {
+    "icon": "CloudArchive32Regular",
+    "name": "Alist",
+    "link": "https://ql.local"
+  },  
+  {
+    "icon": "LivePhoto",
+    "name": "兰空图床",
+    "link": "https://ql.local"
   }
 ]
