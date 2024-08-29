@@ -70,6 +70,15 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  Baby,
+  Linux,
+  LivePhoto,
+  Server,
+  AlbumsSharp,
+  Ad,
+  SolarPanel,
+  LogoPython,
+  CloudArchive32Regular,
 };
 
 // 链接跳转
